@@ -6,3 +6,6 @@ Unity ile geliştirilmiştir. 3D savaş oyunudur. Masaüstü sürümler için ge
 - Scenes klasörü içerisinde oyun içinde kullandığım Ekranlara ulaşabilirsiniz.
 - DarkManage.exe ile oyunu çalıştırabilirsiniz.
 - Oyun tanıtımını ve dosyalarını anlattığım proje sunum videomun YouTube linki :https://youtu.be/iDU3DZIn2jc?si=g91DW9CSr6MN-b0c
+
+- ![Uploading Ekran görüntüsü 2024-02-18 223231.png…]()
+
