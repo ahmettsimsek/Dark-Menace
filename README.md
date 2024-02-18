@@ -5,6 +5,7 @@ Unity ile geliştirilmiştir. 3D savaş oyunudur. Masaüstü sürümler için ge
 - MILITARY ARM CLAW.sln ve Scripts klasörü içerisinde kullandığım C# dosyalarına ulaşabilirsiniz.
 - Scenes klasörü içerisinde oyun içinde kullandığım Ekranlara ulaşabilirsiniz.
 - DarkManage.exe ile oyunu çalıştırabilirsiniz.
+- Proje belgeleri tümüyle yüklenmemiştir, ana dosyalar yüklenmiştir!
 - Oyun tanıtımını ve dosyalarını anlattığım proje sunum videomun YouTube linki :https://youtu.be/iDU3DZIn2jc?si=g91DW9CSr6MN-b0c
 
 
