@@ -1,4 +1,4 @@
-# Dark-Manage
+# Dark-Manage 3D silah oyunu
 # Unity ve C# ile yapılmıştır.
 Bu oyun 12 haftalık Üretken Akademi bootcampinden sonra  bitirme projesi olarak Unity ile yapılmıştır.
 Unity ile geliştirilmiştir. 3D savaş oyunudur. Masaüstü sürümler için geçerlidir.
