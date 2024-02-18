@@ -7,6 +7,7 @@ Unity ile geliştirilmiştir. 3D savaş oyunudur. Masaüstü sürümler için ge
 - DarkManage.exe ile oyunu çalıştırabilirsiniz.
 - Oyun tanıtımını ve dosyalarını anlattığım proje sunum videomun YouTube linki :https://youtu.be/iDU3DZIn2jc?si=g91DW9CSr6MN-b0c
 
+
 - ![Ekran görüntüsü 2024-02-18 223231](https://github.com/ahmettsimsek/Dark-Manage/assets/124433579/9620c4b6-12a4-44c2-a72d-6e3279a21057)
 - ![Ekran görüntüsü 2024-02-18 223314](https://github.com/ahmettsimsek/Dark-Manage/assets/124433579/7663b024-e27e-43b0-96bd-0284b3581a90)
 -![Ekran görüntüsü 2024-02-18 223622](https://github.com/ahmettsimsek/Dark-Manage/assets/124433579/74f0f71e-a390-4aa4-91db-1d49bf08781c)
