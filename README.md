@@ -17,4 +17,6 @@ Unity ile geliştirilmiştir. 3D savaş oyunudur. Masaüstü sürümler için ge
 -![Ekran görüntüsü 2024-02-18 223438](https://github.com/ahmettsimsek/Dark-Manage/assets/124433579/fba8c901-0586-4539-ad4a-cfc332433b72)
 -![Ekran görüntüsü 2024-02-18 223549](https://github.com/ahmettsimsek/Dark-Manage/assets/124433579/1dbccd62-311e-4592-a26d-16ec666cabaf)
 -![Ekran görüntüsü 2024-02-18 225144](https://github.com/ahmettsimsek/Dark-Manage/assets/124433579/aaef18eb-0d04-482f-b7f3-fa7ab4e77f71)
+-![Ekran görüntüsü 2024-02-18 233003](https://github.com/ahmettsimsek/Dark-Manage/assets/124433579/b2a048e4-cbce-4f2a-9792-7e191e288067)
+
 
