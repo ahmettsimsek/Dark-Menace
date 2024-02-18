@@ -1,0 +1,648 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.13f1 (5f90a5ebde0f) revision 6262949'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'tr' Physical Memory: 16220 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/ahmts/Desktop/unity eÄŸitim/MILITARY ARM CLAW
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+55342
+Successfully changed project path to: C:/Users/ahmts/Desktop/unity eÄŸitim/MILITARY ARM CLAW
+C:/Users/ahmts/Desktop/unity eÄŸitim/MILITARY ARM CLAW
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4484] Host "[IP] 169.254.101.0 [Port] 0 [Flags] 2 [Guid] 1951761421 [EditorId] 1951761421 [Version] 1048832 [Id] WindowsEditor(7,Ahmet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4484] Host "[IP] 169.254.101.0 [Port] 0 [Flags] 2 [Guid] 1951761421 [EditorId] 1951761421 [Version] 1048832 [Id] WindowsEditor(7,Ahmet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 10.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.13f1 (5f90a5ebde0f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ahmts/Desktop/unity eÄŸitim/MILITARY ARM CLAW/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   27.21.14.5167
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010521 seconds.
+- Loaded All Assemblies, in  0.565 seconds
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 294 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.602 seconds
+Domain Reload Profiling: 1165ms
+	BeginReloadAssembly (167ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (83ms)
+	LoadAllAssembliesAndSetupDomain (237ms)
+		LoadAssemblies (167ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (231ms)
+			TypeCache.Refresh (230ms)
+				TypeCache.ScanAssembly (213ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (603ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (545ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (403ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (93ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.586 seconds
+Refreshing native plugins compatible for Editor in 2.54 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.600 seconds
+Domain Reload Profiling: 1184ms
+	BeginReloadAssembly (131ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (368ms)
+		LoadAssemblies (259ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (181ms)
+			TypeCache.Refresh (156ms)
+				TypeCache.ScanAssembly (140ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (600ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (445ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (32ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (324ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 3.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3615 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 45 unused Assets / (130.5 KB). Loaded Objects now: 4097.
+Memory consumption went from 173.4 MB to 173.3 MB.
+Total: 3.888100 ms (FindLiveObjects: 0.381900 ms CreateObjectMapping: 0.394900 ms MarkObjects: 2.982400 ms  DeleteObjects: 0.127400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 70129.185476 seconds.
+  path: Assets/Old_Radio
+  artifactKey: Guid(ab8f0bcef622c9e4ab5e6130a560d73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old_Radio using Guid(ab8f0bcef622c9e4ab5e6130a560d73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571b9450ae4822506235cd3cde153957') in 0.004323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.640107 seconds.
+  path: Assets/Old_Radio/Prefab
+  artifactKey: Guid(28c115b5b0a165a4ab2f9cf3887dab01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old_Radio/Prefab using Guid(28c115b5b0a165a4ab2f9cf3887dab01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5746c06effde7477c5e0022ce5ba14a') in 0.000547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.029705 seconds.
+  path: Assets/Old_Radio/Prefab/Radio.prefab
+  artifactKey: Guid(a7dbdd508737b0d49b444c4263d812f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old_Radio/Prefab/Radio.prefab using Guid(a7dbdd508737b0d49b444c4263d812f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3944eb5d68846570f17de8abf32fb30b') in 0.238877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 698.162212 seconds.
+  path: Assets/Packages
+  artifactKey: Guid(1c3be90f090c0564cb10dce23eff5dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages using Guid(1c3be90f090c0564cb10dce23eff5dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a52d0cf87efad8575f6c886cc149fe7') in 0.001009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.082498 seconds.
+  path: Assets/Packages/Solider radio voices
+  artifactKey: Guid(fc0a3033118b82f40befc9de79f7009b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Solider radio voices using Guid(fc0a3033118b82f40befc9de79f7009b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c98e2ff716e1d9b1e5bbe7833fbc9e') in 0.000585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.039973 seconds.
+  path: Assets/Packages/Solider radio voices/acknowledged.wav
+  artifactKey: Guid(9415c29dee2e98d4ab72a8373bf810d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Solider radio voices/acknowledged.wav using Guid(9415c29dee2e98d4ab72a8373bf810d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b559a93836895b73b91ae2b1c0142cf') in 0.047153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Packages/Solider radio voices/clear.wav
+  artifactKey: Guid(94263903bd59dd74b957f310df5a00b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Solider radio voices/clear.wav using Guid(94263903bd59dd74b957f310df5a00b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68995e3c3b828242596d59c2d74a83fa') in 0.017017 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Packages/Solider radio voices/tango_down.wav
+  artifactKey: Guid(97edfc810571294428fd5c575ea76c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Solider radio voices/tango_down.wav using Guid(97edfc810571294428fd5c575ea76c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a01c9c4c2414b86a638f48fd366871e') in 0.016016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Packages/Solider radio voices/require_support.wav
+  artifactKey: Guid(36a050fa7b0a5e240999c434f679a28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packages/Solider radio voices/require_support.wav using Guid(36a050fa7b0a5e240999c434f679a28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb69daad3a5177b05cba549054cc9d8') in 0.017004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.465 seconds
+Refreshing native plugins compatible for Editor in 2.80 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.293 seconds
+Domain Reload Profiling: 1756ms
+	BeginReloadAssembly (159ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (217ms)
+		LoadAssemblies (285ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1293ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (678ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (48ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (93ms)
+			ProcessInitializeOnLoadAttributes (484ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 5.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3512 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (102.2 KB). Loaded Objects now: 4121.
+Memory consumption went from 150.8 MB to 150.7 MB.
+Total: 3.499300 ms (FindLiveObjects: 0.322500 ms CreateObjectMapping: 0.489100 ms MarkObjects: 2.615500 ms  DeleteObjects: 0.070700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 690.758534 seconds.
+  path: Assets/Cinematic Trailer Music - Collection
+  artifactKey: Guid(4f5f95d8310314a69a3134dba0d1de99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection using Guid(4f5f95d8310314a69a3134dba0d1de99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3fc31712cb86a0cf403b560e7bbbd8f') in 0.009623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.683003 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 01 - Cinematic Piano Trailer.wav
+  artifactKey: Guid(0844fb75d728346699091e1457e43268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 01 - Cinematic Piano Trailer.wav using Guid(0844fb75d728346699091e1457e43268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56cfa5f1b2b706447283712c408e7890') in 0.244648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 04 - Cinematic Chanting Percussion Trailer.wav
+  artifactKey: Guid(e03e6c6a51c52476f8c3d552f45917aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 04 - Cinematic Chanting Percussion Trailer.wav using Guid(e03e6c6a51c52476f8c3d552f45917aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea648a31a16784b78e67731975d51c00') in 0.190817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 01 - Cinematic Piano Trailer - Piano only version.wav
+  artifactKey: Guid(608b15e04da3742a6856d50b8bb384df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 01 - Cinematic Piano Trailer - Piano only version.wav using Guid(608b15e04da3742a6856d50b8bb384df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a944b76896e4713a5b38e1b2f913a086') in 0.178675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 07 - Cinematic Minimal Orchestral Percussion Trailer.wav
+  artifactKey: Guid(2b9191771bfbd4525a0aeae86f146aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 07 - Cinematic Minimal Orchestral Percussion Trailer.wav using Guid(2b9191771bfbd4525a0aeae86f146aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c6871d76b2cf7405314be15f827f56') in 0.374439 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 12 - Cinematic Epic Trailer - With SFX.wav
+  artifactKey: Guid(4bb9995cd255d469c93c32a12b1961bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 12 - Cinematic Epic Trailer - With SFX.wav using Guid(4bb9995cd255d469c93c32a12b1961bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd1703efbcdfa8b78fbc41e8c69d9ff') in 0.387470 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 17 - Cinematic Piano Fairy Tale Intro.wav
+  artifactKey: Guid(5f0a7c13e3abb407398d19a18cb23525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 17 - Cinematic Piano Fairy Tale Intro.wav using Guid(5f0a7c13e3abb407398d19a18cb23525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c822f5cd68d023a063078ec434cb9f6') in 0.128710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 09 - Cinematic Oriental Trailer - II.wav
+  artifactKey: Guid(0c616a6251002442e849e0c8b74d9d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 09 - Cinematic Oriental Trailer - II.wav using Guid(0c616a6251002442e849e0c8b74d9d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5822882ff7163a856a862d754aeb4186') in 0.326830 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 22 - Cinematic Piano Dream Sequence.wav
+  artifactKey: Guid(5f0ebf94a8868415bbd6954a728f6d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 22 - Cinematic Piano Dream Sequence.wav using Guid(5f0ebf94a8868415bbd6954a728f6d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7467468d600c9317866acf17c319b01b') in 0.186817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 05 - Cinematic Cello Arpeggio Trailer.wav
+  artifactKey: Guid(786015855de7c45509214d4ebbbaf3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 05 - Cinematic Cello Arpeggio Trailer.wav using Guid(786015855de7c45509214d4ebbbaf3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde787877878b4789a612a11ed3f808f') in 0.309206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 06 - Cinematic Orchestral Arpeggio Trailer.wav
+  artifactKey: Guid(c811f8a4b62304796877a40aa779dc55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 06 - Cinematic Orchestral Arpeggio Trailer.wav using Guid(c811f8a4b62304796877a40aa779dc55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193eeb77294614b8be3b847c69a69182') in 0.280171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 02 - Cinematic Piano Trailer - With SFX and Riser.wav
+  artifactKey: Guid(d1aa7cbb9dfed4bc79e9ccdfec4cd488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - Variations - 02 - Cinematic Piano Trailer - With SFX and Riser.wav using Guid(d1aa7cbb9dfed4bc79e9ccdfec4cd488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c195ec790c0b937c27445de1fbc344a5') in 0.209667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 16 - Cinematic Piano Ident Logo Trailer.wav
+  artifactKey: Guid(5179949f7c55643c881baa3bb350324b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 16 - Cinematic Piano Ident Logo Trailer.wav using Guid(5179949f7c55643c881baa3bb350324b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8406df7976abc0712920438d7089b3cf') in 0.132313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 21 - Cinematic Fairy Tale Sketch.wav
+  artifactKey: Guid(cbb0ecbc6bbf544cca845f3834c3c76f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 21 - Cinematic Fairy Tale Sketch.wav using Guid(cbb0ecbc6bbf544cca845f3834c3c76f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b043e5f062dabef146c3d4766fa6450f') in 0.349484 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 11 - Cinematic Cello Ostinato Trailer.wav
+  artifactKey: Guid(f4ecbe5941f8e476aaf41bad0b958bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 11 - Cinematic Cello Ostinato Trailer.wav using Guid(f4ecbe5941f8e476aaf41bad0b958bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7045ccb290ae008320673ff1506e415b') in 0.275494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 04 - Cinematic Percussion Trailer.wav
+  artifactKey: Guid(9d9d1f3c2ea8e43bd87b7f7c628c9c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 04 - Cinematic Percussion Trailer.wav using Guid(9d9d1f3c2ea8e43bd87b7f7c628c9c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87fae576df8d2458311bb9e27dfad5a3') in 0.151976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 23 - Cinematic Experimental Piano & Woodwinds Trailer.wav
+  artifactKey: Guid(8eaf568cf400f4c41b781e2e32c1c5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cinematic Trailer Music - Collection/Cinematic Trailer Music - 23 - Cinematic Experimental Piano & Woodwinds Trailer.wav using Guid(8eaf568cf400f4c41b781e2e32c1c5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0ada97a2a158ed78b2d4fb00f2f23e') in 0.162967 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.482 seconds
+Refreshing native plugins compatible for Editor in 3.07 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.469 seconds
+Domain Reload Profiling: 1949ms
+	BeginReloadAssembly (158ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (241ms)
+		LoadAssemblies (299ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (27ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1471ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (706ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (55ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (493ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 2.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3512 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (102.4 KB). Loaded Objects now: 4136.
+Memory consumption went from 151.9 MB to 151.8 MB.
+Total: 4.750100 ms (FindLiveObjects: 0.402700 ms CreateObjectMapping: 0.352200 ms MarkObjects: 3.876700 ms  DeleteObjects: 0.117100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 495.379947 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+  artifactKey: Guid(283f897e4925411ebbaa758b4cb13fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg using Guid(283f897e4925411ebbaa758b4cb13fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98cc017fd802a67c5c87a771357cad0a') in 0.080259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 24.385992 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe7713f649d8d05fa9448eaf3bc8466') in 0.098642 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1365ae1ad7bbf96ef5ad9b54a98dc9db') in 0.032781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b9e993303cd55f9b595f901a75c7945') in 0.049612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 427.498389 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+  artifactKey: Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat using Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8caba4f31b40f14789973b9b9f7674') in 0.084242 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat
+  artifactKey: Guid(9ad269c99dcf42b7aedefd83dd5a7b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat using Guid(9ad269c99dcf42b7aedefd83dd5a7b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52fe8694f38e4c193e23e9bb62aa5f9') in 0.036049 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
+  artifactKey: Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat using Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f6fbe33ad35583d1f17e7abb38f722') in 0.007696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+  artifactKey: Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat using Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5038c6441c664812cf0ebabf309b9346') in 0.069510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+  artifactKey: Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat using Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72ffcd9f185b2ffbb975ab0684c5d13') in 0.008406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+  artifactKey: Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat using Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752ccafadec1c9fe17b22de319747a69') in 0.105000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat
+  artifactKey: Guid(e6b276ec991f467aa14ef1f3cc665993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat using Guid(e6b276ec991f467aa14ef1f3cc665993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1a612259665a81d9dac9cdf2245b18') in 0.131549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
+  artifactKey: Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat using Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3ef9c9c39ccf81afdc87895216493e') in 0.030573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Bir iþ parçacýðý çýkýþý veya bir uygulama isteði nedeniyle G/Ç iþlemi iptal edildi.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
